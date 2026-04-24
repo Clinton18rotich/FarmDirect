@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color accent_gold
+color background_light
+color primary_dark_green
+color primary_green
+color primary_light_green
+color text_primary
+color text_secondary
+color text_white
+drawable ic_add_circle
+drawable ic_chat
+drawable ic_crops
+drawable ic_home
+drawable ic_livestock
+drawable ic_location
+drawable ic_logo
+drawable ic_profile
+drawable ic_search
+drawable ic_weather
+string app_name
+string login_title
+string nav_chats
+string nav_home
+string nav_profile
+string nav_search
+string nav_sell
+string register_title
+string tagline
+style Theme.FarmDirect

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_gold">#FFB300</color>
+    <color name="background_light">#F1F8E9</color>
+    <color name="primary_dark_green">#1B5E20</color>
+    <color name="primary_green">#2E7D32</color>
+    <color name="primary_light_green">#4CAF50</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#616161</color>
+    <color name="text_white">#FFFFFF</color>
+    <string name="app_name">FarmDirect</string>
+    <string name="login_title">Welcome Back!</string>
+    <string name="nav_chats">Messages</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_sell">Sell</string>
+    <string name="register_title">Join FarmDirect</string>
+    <string name="tagline">Connect Direct • Farm to Table</string>
+    <style name="Theme.FarmDirect" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary_dark_green</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>

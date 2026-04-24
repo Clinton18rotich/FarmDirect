@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_logo.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_home.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_chat.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_location.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_search.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_add_circle.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_livestock.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_livestock.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_profile.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_weather.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_weather.xml"
+    },
+    {
+        "merged": "com.farmdirect.app-merged_res-59:/drawable_ic_crops.xml.flat",
+        "source": "com.farmdirect.app-main-61:/drawable/ic_crops.xml"
+    }
+]
