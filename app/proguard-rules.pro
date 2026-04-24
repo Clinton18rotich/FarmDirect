@@ -1,0 +1,8 @@
+-keep class com.farmdirect.app.domain.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class retrofit2.** { *; }
+-keep class com.google.gson.** { *; }
+-dontwarn androidx.room.paging.**
+-keep class dagger.hilt.** { *; }
+-keep class javax.inject.** { *; }

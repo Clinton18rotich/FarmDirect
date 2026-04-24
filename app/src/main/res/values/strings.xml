@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FarmDirect</string>
+    <string name="tagline">Connect Direct • Farm to Table</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_sell">Sell</string>
+    <string name="nav_chats">Messages</string>
+    <string name="nav_profile">Profile</string>
+    <string name="login_title">Welcome Back!</string>
+    <string name="register_title">Join FarmDirect</string>
+</resources>
